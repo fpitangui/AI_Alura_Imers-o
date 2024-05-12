@@ -1,4 +1,4 @@
-# AI_Alura_Imers-o
+# AI_Alura_Imersao
 
 Preenchimento Automático de Formulários com Playwright e Gemini AI
 Este script Python automatiza o preenchimento de formulários web usando a biblioteca Playwright para controlar o navegador e o Google Gemini AI para auxiliar na identificação dos campos do formulário.
