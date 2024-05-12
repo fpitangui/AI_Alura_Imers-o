@@ -38,7 +38,9 @@ Certifique-se de ter uma conexão estável com a Internet para usar o Google Gem
 
 Exemplo de arquivo Excel:
 Nome	Email	Telefone
+
 João Silva	joao.silva@example.com	(11) 99999-9999
+
 Maria Souza	maria.souza@example.com	(21) 98888-8888
 
 Este script é uma ferramenta poderosa para automatizar tarefas repetitivas de preenchimento de formulários web.
